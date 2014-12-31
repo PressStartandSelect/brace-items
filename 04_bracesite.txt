@@ -11,6 +11,7 @@ bracesite:gofuckyourselfjossy
 bracesite:guidetest
 bracesite:husam
 bracesite:ichoochoochooseyou
+bracesite:journalismtools
 bracesite:journapps2014
 bracesite:ksenia
 bracesite:lightt
@@ -37,3 +38,4 @@ bracesite:twitterarchive
 bracesite:twitterbase
 bracesite:webbarr
 bracesite:ymtk
+bracesite:yoursite
